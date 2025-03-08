@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-[![Bram profile views](https://u8views.com/api/v1/github/profiles/83133548/views/day-week-month-total-count.svg)](https://u8views.com/github/ibramsterdam)
+[![Bram profile views](https://u8views.com/api/v1/github/profiles/83133548/views/total-count.svg)](https://u8views.com/github/ibramsterdam)
