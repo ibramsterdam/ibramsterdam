@@ -8,8 +8,6 @@ I've never looked back.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/b-janssen/).
 
-![](https://komarev.com/ghpvc/?username=ibramsterdam)
-
 
 ### Mentors
 I consider myself very lucky and privileged to have encountered and been guided by some amazing mentors over the past few years. Thank you  [Sebastian](https://github.com/stomescu), [TK](https://github.com/krtschmr), [Marek](https://github.com/mdh), [Petrik](https://github.com/p8) & [Andrius](https://github.com/andriusch) !
@@ -28,6 +26,15 @@ I have the deepest respect for [Andrius](https://github.com/andriusch). Your int
 
 </details>
 
-I also have to mention the one and only [Prime](https://github.com/theprimeagen). Showing me how enjoyable programming is to have as a hobby and that working hard is the way to success
+I also have to mention the one and only [ThePrimeagen](https://github.com/theprimeagen). Showing me how enjoyable programming is to have as a hobby and that working hard is the way to success.
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=ibramsterdam)
+
+
+
 
 <div align="center">I use Vim (BTW)</div>
